@@ -69,7 +69,7 @@ export function HomeScreen() {
                     </div>
                     <div id="tabs-with-underline-2" className="hidden" role="tabpanel" aria-labelledby="tabs-with-underline-item-2">
                         <p className="text-gray-500">
-                            This is the <em className="font-semibold text-gray-800">second</em> item's tab body.
+                            Aqui você envia os trem tudo
                         </p>
                     </div>
                 </div>
